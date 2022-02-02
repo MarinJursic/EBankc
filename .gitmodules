@@ -1,0 +1,3 @@
+[submodule "EBankc-Website"]
+	path = EBankc-Website
+	url = https://github.com/Brkic365/EBankc-Website.git
