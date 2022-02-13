@@ -1,3 +1,6 @@
 [submodule "EBankc-Website"]
 	path = EBankc-Website
 	url = https://github.com/Brkic365/EBankc-Website.git
+[submodule "EBankc-application"]
+	path = EBankc-application
+	url = https://github.com/MarinJursic/EBankc-application.git
